@@ -9,4 +9,4 @@ A couple more things:
 - 🌱 Learning Ruby
 - :+1: Decent fellow to work with (so they say)
 
-[Linkdin](www.linkedin.com/in/maxjwmvogel) - [codepen](https://codepen.io/Just-a-Bird)
+[Linkdin](www.linkedin.com/in/maxjwmvogel) - [Codepen](https://codepen.io/Just-a-Bird)
