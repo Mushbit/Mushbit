@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Max👋
 
-<!--
-**Mushbit/Mushbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Linkdin](www.linkedin.com/in/maxjwmvogel) - [codepen](https://codepen.io/Just-a-Bird)
 
-Here are some ideas to get you started:
+I'm an aspiring web-developer. I'm into 40k lore, yoga and backpacking gear.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+A couple more things:
+
+- :godmode: Self-taught
+- :white_check_mark: JS and HTML/CSS
+- 🌱 Learning Ruby
+- :+1: Decent fellow to work with (so they say)
