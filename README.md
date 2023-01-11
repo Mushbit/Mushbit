@@ -8,5 +8,4 @@ A couple more things:
 - :white_check_mark: JS and HTML/CSS
 - 🌱 Learning Ruby
 - :+1: Decent fellow to work with (so they say)
-
-<br> <br>[Linkdin](www.linkedin.com/in/maxjwmvogel) - [Codepen](https://codepen.io/Just-a-Bird)
+<br><br>[Linkdin](www.linkedin.com/in/maxjwmvogel) - [Codepen](https://codepen.io/Just-a-Bird)
