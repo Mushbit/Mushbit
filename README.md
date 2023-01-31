@@ -1,6 +1,6 @@
 ### Hi there, I'm Max👋
 
-I'm an aspiring web-developer. I'm into 40k lore, yoga and backpacking gear.
+I'm an aspiring programmer. I'm into 40k, yoga and trekking.
 
 A couple more things:
 
